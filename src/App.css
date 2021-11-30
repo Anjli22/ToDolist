@@ -1,0 +1,14 @@
+*{
+    /* text-align: center; */
+    /* margin: 20px; */
+}
+.tasklist{
+    border:2px black solid;
+   font-size: 30px;
+   text-align: left !important;
+   min-height: 50vh;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
